@@ -3,7 +3,7 @@ A personalized skincare recommendation system using OpenCV for facial image capt
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/3695f248-4750-4217-8ece-efea939a75b3" />
 <br>
 Option 1:<br>
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/53d07172-fd52-4d5a-8f14-ff44d2b5b774" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/53d07172-fd52-4d5a-8f14-ff44d2b5b774" /><br>
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/78ac5acb-6206-41a2-95a1-679bcf8d035f" />
 <br>
 Option 2:<br>
